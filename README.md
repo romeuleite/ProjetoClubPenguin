@@ -27,3 +27,7 @@ executar arquivos com extensão .exe.</p>
 - Agora é só jogar
 
 ![instrucoes_v2](https://user-images.githubusercontent.com/119366384/204398068-e8d2fee3-4e95-4436-824e-eb36d2acfb2d.png)
+
+
+https://user-images.githubusercontent.com/119366384/204398914-56794661-276a-4b8c-be44-c81325bda25f.mp4
+
