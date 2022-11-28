@@ -1,7 +1,9 @@
 # JogoEmpilha
 
-<p align="justify"> Este projeto foi desenvolvido por Carlos Eduardo, Romeu e Vanessa durante a disciplina de Algoritmo e Estrutura de  Dados 1, ministrada pelos
+<p align="justify"> Este projeto foi desenvolvido utilizando a Linguagem C++ para implementar o tipo abstrato de dado pilha e a biblioteca Allegro 5 por Romeu Leite, Carlos Eduardo e Vanessa durante a disciplina de Algoritmo e Estrutura de  Dados 1, ministrada pelos
 professores Marcela Ribeiro e Roberto Ferrari. O jogo Empilha foi baseado no jogo do Club Penguim Bean Counters do Club Penguin.</p>
+
+![PrintJogo](https://user-images.githubusercontent.com/119366384/204397631-0b4da64e-be76-4e73-a360-14e4236eb5f3.png)
 
 ## Como rodar o jogo no PC
 
@@ -23,3 +25,4 @@ executar arquivos com extensão .exe.</p>
 - Procure pelo executável JogoPenguim.exe
 - Abra o executável utilizando o carregador de aplicativos Windows
 - Agora é só jogar
+
